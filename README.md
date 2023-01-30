@@ -1,4 +1,6 @@
-### Testing mwtam Repo
+### Ming (Tam Ming Wai)
+
+- 🌱 I’m currently learning Rust
 
 <!--
 **mwtam/mwtam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
